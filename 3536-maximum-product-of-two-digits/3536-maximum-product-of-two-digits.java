@@ -2,23 +2,22 @@ class Solution
 {
     public int maxProduct(int n) 
     {
-          ArrayList<Integer>lis=new ArrayList<>();
+         int n1=0;int n2=0;
           while(n!=0)
           {
             int digit =n%10;
-            lis.add(digit);
+            if(digit>n1)
+            {
+                n2=n1;
+                n1=digit;
+            }
+            else if(digit>n2)
+            {
+                n2=digit;
+            }
             n/=10;
           }       
-          int max=0;
-          for(int i=0;i<lis.size();i++)
-          {
-            int sum=0;
-            for(int j=i+1;j<lis.size();j++)
-            {
-                  sum=lis.get(i)*lis.get(j);
-                  max=Math.max(max,sum);
-            }      
-          } 
-          return max;
+         
+          return n1*n2;
     }
 }
