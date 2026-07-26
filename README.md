@@ -16,6 +16,7 @@
 | [0014-longest-common-prefix](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Queue
 |  |
