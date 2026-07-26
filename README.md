@@ -15,6 +15,7 @@
 | [0006-zigzag-conversion](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
