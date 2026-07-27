@@ -51,10 +51,12 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
 | [3536-maximum-product-of-two-digits](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
 <!---LeetCode Topics End-->
