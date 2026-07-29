@@ -13,6 +13,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0055-jump-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
 ## Math
 |  |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
