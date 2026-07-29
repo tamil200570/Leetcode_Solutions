@@ -109,4 +109,8 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
