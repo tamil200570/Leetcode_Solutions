@@ -3,21 +3,18 @@ class Solution {
     {
          int s1=0;
          int s2=0;
-         for(int i=0;i<nums.length;i++)
+         for(int i : nums)
          {
-            if(nums[i]>=10)
+            if(i>=10)
             {
-                s2+=nums[i];
+                s2+=i;
             }
             else
             {
-                s1+=nums[i];
+                s1+=i;
             }
          }
-         if(s1==s2)
-         {
-            return false;
-         }
-         return true;
+      
+         return s1!=s2;
     }
 }
