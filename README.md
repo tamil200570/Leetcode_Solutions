@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
 | [3536-maximum-product-of-two-digits](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
