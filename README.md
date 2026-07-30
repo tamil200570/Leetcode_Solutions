@@ -14,6 +14,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
