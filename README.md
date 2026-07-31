@@ -13,6 +13,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
