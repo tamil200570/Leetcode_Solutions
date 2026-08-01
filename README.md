@@ -76,6 +76,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2413-smallest-even-multiple](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
