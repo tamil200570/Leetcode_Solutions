@@ -25,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
@@ -57,6 +58,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -152,6 +154,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0046-permutations) |
 ## Matrix
 |  |
