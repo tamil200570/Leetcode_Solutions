@@ -36,6 +36,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
@@ -147,6 +149,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Monotonic Stack
 |  |
