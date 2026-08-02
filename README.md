@@ -38,6 +38,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2785-sort-vowels-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [2413-smallest-even-multiple](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -137,6 +139,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
