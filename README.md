@@ -41,6 +41,7 @@
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0890-find-and-replace-pattern](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0890-find-and-replace-pattern) |
+| [1446-consecutive-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
