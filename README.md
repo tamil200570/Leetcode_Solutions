@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0890-find-and-replace-pattern) |
@@ -187,6 +189,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
