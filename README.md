@@ -50,6 +50,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
+| [3941-password-strength](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3941-password-strength) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3941-password-strength](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
