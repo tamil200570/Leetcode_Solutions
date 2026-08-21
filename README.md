@@ -87,6 +87,7 @@
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Stack
 |  |
@@ -110,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -139,6 +141,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
