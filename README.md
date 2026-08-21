@@ -25,6 +25,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3895-count-digit-appearances](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -129,11 +130,13 @@
 | [2785-sort-vowels-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,4 +208,12 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
