@@ -87,6 +87,7 @@
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2939-maximum-xor-product](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2939-maximum-xor-product) |
