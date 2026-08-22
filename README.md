@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
