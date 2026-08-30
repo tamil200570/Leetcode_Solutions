@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0046-permutations) |
@@ -63,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
