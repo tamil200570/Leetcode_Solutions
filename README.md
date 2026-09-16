@@ -117,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
