@@ -58,6 +58,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3941-password-strength) |
 ## Trie
 |  |
@@ -199,6 +200,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
