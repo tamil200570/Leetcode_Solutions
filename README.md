@@ -46,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Greedy
@@ -120,6 +122,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
