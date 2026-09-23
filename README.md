@@ -22,6 +22,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -76,6 +77,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -88,6 +90,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
@@ -234,6 +238,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
