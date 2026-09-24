@@ -31,6 +31,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -139,6 +140,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
