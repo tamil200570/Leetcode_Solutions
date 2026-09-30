@@ -132,6 +132,7 @@
 | [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1688-count-of-matches-in-tournament](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
@@ -206,6 +207,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
