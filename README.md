@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0890-find-and-replace-pattern) |
@@ -99,6 +103,7 @@
 | [0032-longest-valid-parentheses](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
@@ -238,6 +243,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -283,4 +289,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
