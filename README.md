@@ -50,6 +50,7 @@
 | [0058-length-of-last-word](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0223-rectangle-area](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
