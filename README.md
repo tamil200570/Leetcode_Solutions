@@ -38,6 +38,7 @@
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
+| [3912-valid-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3912-valid-elements-in-an-array) |
 ## String
 |  |
 | ------- |
