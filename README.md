@@ -56,6 +56,7 @@
 | [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0890-find-and-replace-pattern](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1446-consecutive-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
@@ -137,6 +138,7 @@
 | [0171-excel-sheet-column-number](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0223-rectangle-area](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+| [0415-add-strings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -220,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
