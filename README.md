@@ -27,6 +27,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -300,4 +301,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0223-rectangle-area) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
