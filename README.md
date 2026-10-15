@@ -47,6 +47,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3912-valid-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3912-valid-elements-in-an-array) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [1089-duplicate-zeros](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Queue
 |  |
 | ------- |
