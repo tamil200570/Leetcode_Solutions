@@ -24,6 +24,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0890-find-and-replace-pattern) |
+| [0977-squares-of-a-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -181,6 +182,7 @@
 | [0164-maximum-gap](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0506-relative-ranks](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -207,6 +209,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Queue
