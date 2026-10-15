@@ -64,6 +64,7 @@
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1446-consecutive-characters](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -119,6 +120,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0887-super-egg-drop) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -204,6 +206,7 @@
 | [0392-is-subsequence](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/tamil200570/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tamil200570/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/tamil200570/Leetcode_Solutions/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Queue
